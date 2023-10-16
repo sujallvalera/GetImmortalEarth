@@ -5,7 +5,7 @@ const axios = require("axios");
 const cors = require('cors');
 var fs = require('fs');
 app.use(cors());
-app.use(express.static(__dirname));
+app.use(express.static());
 
 const port = 5500;
 
