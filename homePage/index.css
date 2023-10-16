@@ -102,7 +102,7 @@ nav a {
     display: block;
     background-color: #207438; /* Background color for the buttons */
     color: #fff; /* Text color for the buttons */
-    font-size: 40px; /* Font size for the buttons */
+    font-size: 100px; /* Font size for the buttons */
     transition: background-color 0.3s ease; /* Smooth background color transition */
     border-radius: 5px; /* Make buttons round */
     
